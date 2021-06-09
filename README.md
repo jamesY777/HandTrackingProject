@@ -1,0 +1,1 @@
+Install ```opencv-python``` and ```mediapipe```
