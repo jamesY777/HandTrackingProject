@@ -6,7 +6,7 @@ The mdeiapipe hand tracking return the hand object in 21 dots, displaying below:
 ![](/image/hand_landmarks.png)
 
 ### For quick start
-Use the *HandTrackingMin.py*. The script will use the first camera device to track any Hand captured in the camera. Additional, it also highlight the index finger (with id=8) in this quick start-up.
+Use the *HandTrackingMin.py*. The script will use the first camera device to track any Hand captured in the camera. Additional, it also highlights the index finger (with id=8) in this quick start-up.
 
 ![](/image/hand_min.PNG)
 
@@ -39,4 +39,5 @@ This is an extend of finger counting application, where 2-finger up to "pick col
 
 ### Reference - meidapipe package
 Source: https://google.github.io/mediapipe/solutions/hands.html
+
 Thanks to free training video: https://www.youtube.com/watch?v=01sAkU_NvOY
