@@ -6,7 +6,7 @@ The mdeiapipe hand tracking return the hand object in 21 dots, displaying below:
 ![](/image/hand_landmarks.png)
 
 ### For quick start
-Use the *HandTrackingMin.py*. The script will use the first camera device to track any Hand captured in the camera. Additional, it also highlights the index finger (with id=8) in this quick start-up.
+Use the *HandTrackingMin.py*. The script will use the first camera device to track any Hand captured in the camera. Additionally, it also highlights the index finger (with id=8) in this quick start-up.
 
 ![](/image/hand_min.PNG)
 
