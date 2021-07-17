@@ -22,7 +22,7 @@ To test loading the module and use the class, check the *Test_HandTracking.py*
 In the module class, method *fingerUp* comparing the length between tip-to-wrist VS pip-to-wrist; for thumb, comparing tip-to-pinky_mcp vs thumb_mpc-to-pinky_mcp, and return a list with 1-finger up, 0-finger down.
 The appliction displays the # of fingers that is up.
 
-![](/image/finger_count.PNG)
+![](/image/finger_count_demo.gif)
 
 ### Application 2 - painter
 *painter.py* is a painter application (sorry about my UI design).
@@ -30,12 +30,12 @@ This is an extend of finger counting application, where 2-finger up to "pick col
 
 *Note: There is no save function.*
 
-![](/image/painter.PNG)
+![](/image/paint_demo.gif)
 
 ### Application 3 - volume Control
 *volumeControl.py* is simple function to control the sound volume using thumb_tip-to-index_finger_tip. The MAX volume is mapped to 50% (to avoid too_load situation during test).
 
-![](/image/volumeControl.PNG)
+![](/image/volumeControl_demo.gif)
 
 ### Reference - meidapipe package
 Source: https://google.github.io/mediapipe/solutions/hands.html
